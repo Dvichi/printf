@@ -25,7 +25,7 @@ print_t p[] = {
 {"r", print_r},
 {"R", print_R},
 {NULL, NULL}
-	           };
+};
 
 for (i = 0; p[i].t != NULL; i++)
 	{
